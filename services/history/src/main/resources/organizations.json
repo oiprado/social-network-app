@@ -1,0 +1,32 @@
+[
+  {
+    "id": "652d490b6122ae0414b921eb",
+    "name": "Taylor Norman",
+    "image": "http://placehold.it/32x32",
+    "about": "Quis elit voluptate occaecat et reprehenderit fugiat occaecat reprehenderit incididunt aute. Enim fugiat id in eu irure do consectetur veniam excepteur magna quis id voluptate.",
+    "location": {
+      "latitude": 68.901866,
+      "longitude": -105.995631
+    }
+  },
+  {
+    "id": "652d490b07a7301277e34632",
+    "name": "Erna Singleton",
+    "image": "http://placehold.it/32x32",
+    "about": "Lorem reprehenderit cupidatat ipsum pariatur excepteur qui sit elit. Aliquip sint aliqua cillum magna eu deserunt pariatur.",
+    "location": {
+      "latitude": -56.122852,
+      "longitude": 15.717001
+    }
+  },
+  {
+    "id": "652d490bef5230a1300ef770",
+    "name": "Debbie Gilmore",
+    "image": "http://placehold.it/32x32",
+    "about": "Nostrud commodo labore esse irure ullamco do consectetur sunt veniam. Labore ad dolor tempor nulla duis cupidatat do enim nulla officia.",
+    "location": {
+      "latitude": -36.239032,
+      "longitude": 138.559306
+    }
+  }
+]
